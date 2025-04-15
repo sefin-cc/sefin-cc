@@ -14,24 +14,25 @@
     <img src="https://i.pinimg.com/originals/18/e7/83/18e783e1ccd9a81c9590731e6087cb58.gif" width="50px"/>Henlo!<img src="https://i.pinimg.com/originals/18/e7/83/18e783e1ccd9a81c9590731e6087cb58.gif" width="50px"/>
   </h1>
   <p>Portfolio Website:</p>
-  <p>https://sefin-cc.github.io</p>
+  <p>https://rogena-tibegar-portfolio.netlify.app</p>
 </div>
 
 
 ### :hammer_and_wrench: Languages and Tools :
 
-#### Web Development
+#### Web and Mobile Development
 <p>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
 </p>
 
-#### Mobile Development
-<p>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
-</p>
+
+
+
 
 #### Game Development
 <p>
@@ -39,23 +40,16 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
 </p>
 
-#### Design Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
-</p>
 
-#### Backend
+
+#### Backend Services / Databases
 <p>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
 </p>
 
-#### Version Control
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
-</p>
+
 
 
 
