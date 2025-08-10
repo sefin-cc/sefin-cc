@@ -13,8 +13,9 @@
   <h1>
     <img src="https://i.pinimg.com/originals/18/e7/83/18e783e1ccd9a81c9590731e6087cb58.gif" width="50px"/>Henlo!<img src="https://i.pinimg.com/originals/18/e7/83/18e783e1ccd9a81c9590731e6087cb58.gif" width="50px"/>
   </h1>
-  <p>Portfolio Website:</p>
-  <p>https://rogena-tibegar-portfolio.netlify.app</p>
+ <!-- <p>Portfolio Website:</p>
+  <p>https://rogena-tibegar-portfolio.netlify.app</p> -->
+  
 </div>
 
 
